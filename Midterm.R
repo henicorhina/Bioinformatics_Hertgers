@@ -34,7 +34,6 @@ d
 #The type of mutation that has occurred is a deletion mutation which cause a frame shift mutation.
 #A frame shift mutation causes the entire reading frame to change and all the other ammino acids that are being coded for.
 
-
 #When trying to convert Seq6 from person 6 to an AA structure there are problems.
 #The reason that there are problems is because there are not a proper number of amino acids to show the sequence.
 print(Seq6,show="complete")
